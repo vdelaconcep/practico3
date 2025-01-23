@@ -1,1 +1,37 @@
-.
+body {
+  background-color: #edece9;
+  font-family: Verdana, Arial, sans-serif;
+  color: #816155;
+}
+
+#banner {
+  width: 100%;
+}
+
+a {
+    color: #ef6d24;
+    font-weight: 900;
+  }  
+
+.titulo-principal {
+  color: #775548;
+  font-weight: 900;
+}
+
+.subtitulo {
+  background-color: #775548;
+  color: #e1d4cf;
+  font-weight: 900;
+}
+
+#la_nacion {
+  color: #3aabc4;
+}
+
+#pagina_12 {
+  color: #ef4b51;
+}
+
+#por-que-elegirnos {
+  color: #d8b03b;
+}
